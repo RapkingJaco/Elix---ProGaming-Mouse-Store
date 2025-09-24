@@ -1,5 +1,5 @@
 **Hi，這裡是Elix 專業電競滑鼠銷售平台，基本上不用期待這裡會真的賣你滑鼠 :)**
-# Elix ProGaming Mouse Store
+# Elix
 
 一個 **電競滑鼠專賣平台**，讓玩家可以輕鬆瀏覽、比較並購買最頂級的電競滑鼠。  
 前端使用 **Vue 3 + Vite**，後端使用 **ASP.NET Core 8**，並搭配 **SQL Server** 作為資料庫。  
