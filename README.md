@@ -16,7 +16,7 @@
 ---
 
 ## 技術棧
-- **Frontend**: Vue 3, Vite, Pinia, Tailwind CSS  
+- **Frontend**: Vue 3, Vite, HTML, CSS, Javascript  
 - **Backend**: ASP.NET Core 8 (Web API), Dapper  
 - **Database**: SQL Server  
 - **DevOps**: GitHub Actions (CI/CD), Docker
